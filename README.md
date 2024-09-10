@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Jean-Marc
 - 👀 I’m interested in back end development and algorithms in Python
 - 🌱 I’m currently learning PHP and Python
+-  My LinkedIn is https://www.linkedin.com/in/jean-marc-koopmans/
